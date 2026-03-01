@@ -1,2 +1,31 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<html>
+    <body>
+        <h1>Welcome to my first website!</h1>
+        <h1>Hi there! I am Mohammad Misto. And this is my first website.<br>In this website, you,ll know everything about me.</h1>
+        <h1>First of all, I want to show you some cool games!</h1>
+        <h2>1-CrazyGames <button onclick="window.open('https://www.crazygames.com/', '_blank')">Play Now</button></h2>
+        <h2>2-Deadshot <button onclick="window.open('https://www.deadshot.io/', '_blank')">Play Now</button></h2>
+        <h2>3-Neal Fun <button onclick="window.open('https://www.neal.fun/', '_blank')">Play Now</button></h2>
+        <h1>Enjoy playing these games and have fun!</h1>
+        <h1>Also, I want to share with you some of my favorite songs!</h1>
+        <h2>1-Bad bunny- Titi me pregunto <button onclick="window.open('https://www.youtube.com/watch?v=qBUKfQRbzuk&list=RDqBUKfQRbzuk&start_radio=1', '_blank')">Play Now</button></h2>
+        <h2>2-Bad bunny- Dtmf <button onclick="window.open('https://www.youtube.com/watch?v=4X4uckVyk9o&list=RD4X4uckVyk9o&start_radio=1', '_blank')">Play Now</button></h2>
+        <h2>3-Bad bunny- EoO <button onclick="window.open('https://www.youtube.com/watch?v=_culGnzYOR4&list=RD_culGnzYOR4&start_radio=1', '_blank')">Play Now</button></h2>
+        <h1>I still have a lot more. But till now, enjoy listening to these songs and have fun!<br><i>But I said that this website is about me?</i>Well, Here's a <b>paragraph</b> about me</h1>
+        <p>My name is <b>Mohammad Misto</b>. I am <b>10 years old</b>. And I like to <i>play games and listen to music</i>. Not only that, but I also like to <b>play the Piano, Basketball, Football, and Karate</b>. I also go to my <b>Robotics</b> Session on <i>Friday</i>, but I learnt the HTML coding using <b>coding applications to code and coding education apps to</b> <i>learn</i> <b>coding</b>. I live in <b>Kfarjarra, Lebanon</b>. I go to <i>Al-Makkassed Dawha School</i>. And I am in fifth grade. My birthday is on <i>8/10</i> but I was <i>born</i> in <i>8/10/2015</i>. Yes, I am turning <b>11</b> this year!</p>
+        <h1>So, this is all about me. I hope you enjoyed learning about me and my favorite games and songs!<br>Thank you for visiting my website!</h1>
+        <style>
+            h1 {
+                color: blue;
+            }
+            h2 {
+                color: green;
+            }
+                p {
+                    color: red;
+                }
+        </style>
+    </body>
+</html>
